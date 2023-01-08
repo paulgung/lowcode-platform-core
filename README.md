@@ -1,26 +1,24 @@
-## 低代码
-### 本质 —— 降本增效
-1. 降低开发成本
-=> a. 强制统一组件库复用 b. 提升系统一致性 c. 降低开发资源的投入
+## Low Code
+### Essence —— Cost reduction and efficiency increase
+1. Reduce development costs
+=> a. Mandatory unified component library reuse b. Improve system consistency c. Reduce investment in development resources
 =>
-a. 物料堆的建立（直联、整合）
-型态：
+a. Establishment of material piles (direct connection, integration)
+Type:
 el-form el-form-item
 el-input
 zw-form-input
-特点：
-业务解耦、无感知的热装载
+Features:
+Business decoupling, non-aware hot loading
 
-b. 系统一致性规范（交互、UI、逻辑） —— 原子设计
+b. System consistency specification (interaction, UI, logic) - atomic design
 
-c. 开发投入流程
+c. Development input process
 
-2. 传统型配置平台
-Dreamweaver、xcode、IDE —— 面向骨架样式型配置工具
-=> no-code，但更专注于布局
+2. Traditional configuration platform
+Dreamweaver, xcode, IDE - Skeleton-oriented configuration tools
+=> no-code, but more focused on layout
 
-3. no-code & low-code —— 混合、low-code、no-code
-no-code: 富布局、轻逻辑的页面
-low-code: 重逻辑 —— 配置为主、代码做逻辑补充
-
-### 使用流
+3. no-code & low-code - mixed, low-code, no-code
+no-code: pages with rich layout and light logic
+low-code: heavy logic —— configuration-based, code as logical supplement
